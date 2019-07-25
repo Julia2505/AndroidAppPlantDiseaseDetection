@@ -1,0 +1,15 @@
+Grape_Black rot
+Grape_Esca
+Grape_Powdery mildew
+Wheat_Black chaff
+Corn_Eyespot
+Wheat_Powdery mildew
+Grape_Chlorosis
+Corn_Southern rust
+Corn_Northern leaf blight
+Corn_Downy mildew
+Wheat_Yellow rust
+Grape_Healthy
+Wheat_Brown rust
+Corn_Healthy
+Wheat_Healthy
